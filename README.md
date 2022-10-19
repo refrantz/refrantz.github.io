@@ -1,5 +1,5 @@
 ## Credits
-- [Decorative WebGL Backgrounds](https://tympanus.net/codrops/wp-content/uploads/2017/11/DecorativeWebGLBackgrounds_Featured.jpg)
+- [Decorative WebGL Backgrounds](https://tympanus.net/codrops/2017/11/28/decorative-webgl-backgrounds/)
 - [three.js](https://threejs.org/)
 - [TweenMax](https://greensock.com/tweenmax)
 - [NOISE!](https://github.com/josephg/noisejs) by Seph Gentle
